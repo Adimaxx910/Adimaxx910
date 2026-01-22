@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Adithya
-![Datasciencebanner](https://github.com/user-attachments/assets/02e55101-a3e0-4c4c-99d6-4bb8f22b4ce1)
+<img width="1536" height="1024" alt="ChatGPT Image Jan 22, 2026, 11_23_21 PM" src="https://github.com/user-attachments/assets/94c74870-0570-4008-90a7-7ecd00c0fe7e" />
 
 
 I'm a **Business Intelligence / Data Analyst** with experience in transforming raw data into meaningful insights that drive business decisions.
