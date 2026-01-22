@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm Adithya
-<img width="1536" height="1024" alt="ChatGPT Image Jan 22, 2026, 11_23_21 PM" src="https://github.com/user-attachments/assets/94c74870-0570-4008-90a7-7ecd00c0fe7e" />
 ![Uploading gitportfolio.png…]()
 
 
