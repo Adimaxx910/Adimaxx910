@@ -45,7 +45,7 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 ## 🧰 Tech Stack
 
 - **Languages:** SQL, Python  
-- **Analytics:** Excel, Pandas  
+- **Analytics:** Excel, Pandas,Power querry 
 - **BI Tools:** Power BI, Tableau, Looker Studio  
 - **Other:** GitHub, Google Sheets
 
