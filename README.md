@@ -51,7 +51,7 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: yourportfolio.com
-- 📧 Email: yourname@email.com
+- 💼 LinkedIn: 
+- 🌐 Portfolio: 
+- 📧 Email: 
 
