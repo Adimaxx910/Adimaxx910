@@ -52,6 +52,6 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 ## 🔗 Connect With Me
 
 - 💼 LinkedIn: 
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://adithyagportfolio.carrd.co/
 - 📧 Email: 
 
