@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Adithya  
+## 👋 Hi, I'm Adithya   
 ![github_banner_1736x424_under1mb](https://github.com/user-attachments/assets/dd8d4d75-5aed-4f11-bb30-9db7afd18068)
 
 
@@ -44,7 +44,7 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 
 ## 🧰 Tech Stack
 
-- **Languages:** SQL, Python  
+- **Languages:** SQL, Python , javascript
 - **Analytics:** Excel, Pandas,Power querry 
 - **BI Tools:** Power BI, Tableau, Looker Studio  
 - **Other:** GitHub, Google Sheets
