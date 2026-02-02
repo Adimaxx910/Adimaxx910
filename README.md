@@ -49,7 +49,7 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 - **BI Tools:** Power BI, Tableau, Looker Studio  
 - **Other:** GitHub, Google Sheets
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me here
 
 - 💼 LinkedIn: 
 - 🌐 Portfolio: https://adithyagportfolio.carrd.co/
