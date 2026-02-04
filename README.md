@@ -7,7 +7,7 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 - 📊 Strong in **data analysis, reporting, and visualization**
 - 🧠 Focused on **business insights, KPI tracking, and automation**
 - ⚙️ Experience building **dashboards and automated reports**
-- 🚀 Passionate about data-driven decision making
+- 🚀 Passionate about data-driven decision making and future vision in analytics
 
 
 ## 📊 Featured Projects
