@@ -55,3 +55,4 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 - 🌐 Portfolio: https://adithyagportfolio.carrd.co/
 - 📧 Email: ganigaadithya3@gmail.com
 
+many more ...
