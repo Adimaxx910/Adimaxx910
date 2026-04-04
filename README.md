@@ -42,9 +42,9 @@ I'm a **Business Intelligence / Data Analyst** with experience in transforming r
 - Focus on insights, not just visuals  
 - Automate wherever possible to save time and reduce errors
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack 
 
-- **Languages:** SQL, Python , javascript
+- **Languages:** SQL, Python , javascript ,Java
 - **Analytics:** Excel, Pandas,Power querry 
 - **BI Tools:** Power BI, Tableau, Looker Studio  
 - **Other:** GitHub, Google Sheets
