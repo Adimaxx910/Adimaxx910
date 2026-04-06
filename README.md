@@ -10,7 +10,7 @@
 
 *Turning raw operational data into business decisions that actually move the needle.*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-1D6FE8?style=for-the-badge&logoColor=white)](https://portfolio-558ngzgxd-adithyag.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-1D6FE8?style=for-the-badge&logoColor=white)](https://portfolio-nine-phi-69.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-g-804346194)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganigaadithya3@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-05E8C8?style=for-the-badge&logo=googledrive&logoColor=white)](https://portfolio-558ngzgxd-adithyag.vercel.app/resume.pdf)
