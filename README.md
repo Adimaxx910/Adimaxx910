@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### `Data Analyst · BI Engineer · Automation Builder`
+### `Data Analyst ·Business Analyst ·
 
 *Turning raw operational data into business decisions that actually move the needle.*
 
